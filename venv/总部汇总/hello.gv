@@ -1,0 +1,11 @@
+digraph G {
+	0 [label="no surfacing"]
+	1 [label=no]
+	0 -> 1
+	2 [label=flippers]
+	0 -> 2
+	3 [label=no]
+	2 -> 3
+	4 [label=yes]
+	2 -> 4
+}

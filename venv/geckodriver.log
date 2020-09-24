@@ -1,0 +1,1124 @@
+1599527451563	geckodriver	INFO	Listening on 127.0.0.1:50259
+1599527454592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilevEpbaB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599527457708	Marionette	INFO	Listening on port 50268
+1599527458204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599527460128	Marionette	INFO	Stopped listening on port 50268
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599527470169	geckodriver	INFO	Listening on 127.0.0.1:50354
+1599527473192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileOTeg0x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599527475876	Marionette	INFO	Listening on port 50364
+1599527476302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599527494346	Marionette	INFO	Stopped listening on port 50364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599528010399	geckodriver	INFO	Listening on 127.0.0.1:50860
+1599528013437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilelaM7PG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599528017223	Marionette	INFO	Listening on port 50869
+1599528017551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.onlinedown.net/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.onlinedown.net/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.onlinedown.net/js/comin.js, line 111: NS_ERROR_NOT_INITIALIZED: 
+1599528020887	Marionette	INFO	Stopped listening on port 50869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599528093218	geckodriver	INFO	Listening on 127.0.0.1:51011
+1599528096245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileqftwAT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599528099415	Marionette	INFO	Listening on port 51021
+1599528099860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599528130068	Marionette	INFO	Stopped listening on port 51021
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599528437524	geckodriver	INFO	Listening on 127.0.0.1:51341
+1599528440540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileJw52Mk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599528443260	Marionette	INFO	Listening on port 51350
+1599528443653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599528473845	Marionette	INFO	Stopped listening on port 51350
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599528481169	geckodriver	INFO	Listening on 127.0.0.1:51451
+1599528484195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilegumhWb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599528487039	Marionette	INFO	Listening on port 51461
+1599528487303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599528517488	Marionette	INFO	Stopped listening on port 51461
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599528789107	geckodriver	INFO	Listening on 127.0.0.1:51829
+1599528792133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileByJoyc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599528794828	Marionette	INFO	Listening on port 51838
+1599528795245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599528836352	Marionette	INFO	Stopped listening on port 51838
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599528846221	geckodriver	INFO	Listening on 127.0.0.1:51949
+1599528849238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilenLKajw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599528852250	Marionette	INFO	Listening on port 51959
+1599528852354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599528893323	Marionette	INFO	Stopped listening on port 51959
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599528921010	geckodriver	INFO	Listening on 127.0.0.1:52074
+1599528924027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile9X9m81"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599528926807	Marionette	INFO	Listening on port 52083
+1599528927138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599528976498	Marionette	INFO	Stopped listening on port 52083
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599528985627	geckodriver	INFO	Listening on 127.0.0.1:52205
+1599528988643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileFxdL8t"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599528991426	Marionette	INFO	Listening on port 52215
+1599528991758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1962: TypeError: currentPanel is undefined
+1599529036086	Marionette	INFO	Stopped listening on port 52215
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599529301880	geckodriver	INFO	Listening on 127.0.0.1:52578
+1599529304916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileutzLeZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599529308379	Marionette	INFO	Listening on port 52587
+1599529308531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599529323239	Marionette	INFO	Stopped listening on port 52587
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599529375254	geckodriver	INFO	Listening on 127.0.0.1:52710
+1599529378291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileNSDbHU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599529382004	Marionette	INFO	Listening on port 52720
+1599529382405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599529397908	Marionette	INFO	Stopped listening on port 52720
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599529422273	geckodriver	INFO	Listening on 127.0.0.1:52823
+1599529425292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileiKrrzc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599529428862	Marionette	INFO	Listening on port 52832
+1599529428919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599529464343	Marionette	INFO	Stopped listening on port 52832
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599529479308	geckodriver	INFO	Listening on 127.0.0.1:52938
+1599529482334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileCb4OGV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599529486079	Marionette	INFO	Listening on port 52948
+1599529486455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599529523068	Marionette	INFO	Stopped listening on port 52948
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599529586418	geckodriver	INFO	Listening on 127.0.0.1:53074
+1599529589450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileSAJXQw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599529594065	Marionette	INFO	Listening on port 53083
+1599529594327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599529641041	Marionette	INFO	Stopped listening on port 53083
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599529791346	geckodriver	INFO	Listening on 127.0.0.1:53286
+1599529794377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileMQ7zCU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599529798120	Marionette	INFO	Listening on port 53296
+1599529798514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599529814700	Marionette	INFO	Stopped listening on port 53296
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599532936553	geckodriver	INFO	Listening on 127.0.0.1:56003
+1599532939610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilea2cOPF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599532942929	Marionette	INFO	Listening on port 56015
+1599532943229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599532962497	Marionette	INFO	Stopped listening on port 56015
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599533037042	geckodriver	INFO	Listening on 127.0.0.1:56227
+1599533040094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofiledPuMRk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599533042819	Marionette	INFO	Listening on port 56238
+1599533043210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599533062109	Marionette	INFO	Stopped listening on port 56238
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599533166001	geckodriver	INFO	Listening on 127.0.0.1:56487
+1599533169071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile7yhJyS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599533172238	Marionette	INFO	Listening on port 56500
+1599533172698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599533187936	Marionette	INFO	Stopped listening on port 56500
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599533233970	geckodriver	INFO	Listening on 127.0.0.1:56663
+1599533237042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileyo1yde"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599533240450	Marionette	INFO	Listening on port 56675
+1599533240660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599533258020	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1599533259809	Marionette	INFO	Stopped listening on port 56675
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599533284790	geckodriver	INFO	Listening on 127.0.0.1:56818
+1599533287864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile9XHQmb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599533290913	Marionette	INFO	Listening on port 56830
+1599533290982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599533408783	Marionette	INFO	Stopped listening on port 56830
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599534300035	geckodriver	INFO	Listening on 127.0.0.1:58331
+1599534303103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileKdwvDe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599534306233	Marionette	INFO	Listening on port 58342
+1599534306720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599534428470	Marionette	INFO	Stopped listening on port 58342
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 306: TypeError: this._builder is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599534436054	geckodriver	INFO	Listening on 127.0.0.1:58610
+1599534439117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile0bbbCn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599534442147	Marionette	INFO	Listening on port 58621
+1599534442235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1962: TypeError: currentPanel is undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1599535768521	geckodriver	INFO	Listening on 127.0.0.1:61941
+1599535771607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileKKxYbO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599535774738	Marionette	INFO	Listening on port 61951
+1599535775224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599535793621	Marionette	INFO	Stopped listening on port 61951
+JavaScript error: chrome://global/content/backgroundPageThumbsContent.js, line 244: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599535897732	geckodriver	INFO	Listening on 127.0.0.1:62176
+1599535900752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileZYe2nZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599535903617	Marionette	INFO	Listening on port 62185
+1599535903861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599535921849	Marionette	INFO	Stopped listening on port 62185
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599535961602	geckodriver	INFO	Listening on 127.0.0.1:62300
+1599535964620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileMRIjCv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599535967861	Marionette	INFO	Listening on port 62310
+1599535968235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599535990411	Marionette	INFO	Stopped listening on port 62310
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599536150568	geckodriver	INFO	Listening on 127.0.0.1:62560
+1599536153594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileCTjg7N"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599536156435	Marionette	INFO	Listening on port 62569
+1599536156713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599536308473	geckodriver	INFO	Listening on 127.0.0.1:62760
+1599536311489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileiyKzBv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599536314323	Marionette	INFO	Listening on port 62769
+1599536314602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599536333769	Marionette	INFO	Stopped listening on port 62769
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599536363837	geckodriver	INFO	Listening on 127.0.0.1:62882
+1599536366853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileii7YzY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599536369615	Marionette	INFO	Listening on port 62891
+1599536369973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599536389121	Marionette	INFO	Stopped listening on port 62891
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599536438982	geckodriver	INFO	Listening on 127.0.0.1:63012
+1599536441995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile73w2hb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599536444986	Marionette	INFO	Listening on port 63022
+1599536445107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599536465541	Marionette	INFO	Stopped listening on port 63022
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599536514970	geckodriver	INFO	Listening on 127.0.0.1:63138
+1599536517996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileqdfP3a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599536520801	Marionette	INFO	Listening on port 63148
+1599536521114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599536551784	Marionette	INFO	Stopped listening on port 63148
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599536691957	geckodriver	INFO	Listening on 127.0.0.1:63314
+1599536694986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofiledZYOPd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599536697835	Marionette	INFO	Listening on port 63323
+1599536698107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599536715982	Marionette	INFO	Stopped listening on port 63323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599536784289	geckodriver	INFO	Listening on 127.0.0.1:63447
+1599536787312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile2esBYl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599536790058	Marionette	INFO	Listening on port 63456
+1599536790422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599538694708	geckodriver	INFO	Listening on 127.0.0.1:64556
+1599538697733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilekgKHoW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599538700601	Marionette	INFO	Listening on port 64566
+1599538700842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599538775727	geckodriver	INFO	Listening on 127.0.0.1:64686
+1599538778753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileiYzPTp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599538781780	Marionette	INFO	Listening on port 64696
+1599538781878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599538783842	geckodriver	INFO	Listening on 127.0.0.1:64760
+1599538786869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileYrLFGB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599538789510	Marionette	INFO	Listening on port 64769
+1599538789982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599545227475	geckodriver	INFO	Listening on 127.0.0.1:56290
+1599545230489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileCQdUlp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599545233241	Marionette	INFO	Listening on port 56299
+1599545233607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599545252459	Marionette	INFO	Stopped listening on port 56299
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599545286612	geckodriver	INFO	Listening on 127.0.0.1:56414
+1599545289639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile0OPTid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599545292407	Marionette	INFO	Listening on port 56424
+1599545292752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599545321126	Marionette	INFO	Stopped listening on port 56424
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599545386132	geckodriver	INFO	Listening on 127.0.0.1:56561
+1599545389150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilemYjY2S"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599545391891	Marionette	INFO	Listening on port 56571
+1599545392263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599545562073	geckodriver	INFO	Listening on 127.0.0.1:56795
+1599545565090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile0EbQnR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599545567957	Marionette	INFO	Listening on port 56805
+1599545568203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599545999851	geckodriver	INFO	Listening on 127.0.0.1:57161
+1599546002867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileuxLDEP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599546005910	Marionette	INFO	Listening on port 57170
+1599546005981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599546178918	geckodriver	INFO	Listening on 127.0.0.1:57478
+1599546181947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileIrOzGg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599546184991	Marionette	INFO	Listening on port 57488
+1599546185064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript warning: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js, line 99: Script terminated by timeout at:
+ct.Event@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:99:1
+fix@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:95:220
+r@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:103:148
+
+1599546383070	geckodriver	INFO	Listening on 127.0.0.1:57713
+1599546386084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilerQ7I04"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599546389030	Marionette	INFO	Listening on port 57722
+1599546389196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599546463956	geckodriver	INFO	Listening on 127.0.0.1:57847
+1599546466994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilewR8tSA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599546469996	Marionette	INFO	Listening on port 57857
+1599546470108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1599546957556	geckodriver	INFO	Listening on 127.0.0.1:58338
+1599546960574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile0ryZLO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599546963667	Marionette	INFO	Listening on port 58347
+1599546963688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 16: Error: Page has navigated
+console.error: "stylesheets actor: fetch failed for https://mc.stu.126.net/pub/s/pt_learn_learn_4bcacdb3778d87c1698d1040eb6f9264.css, using system principal instead."
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:415:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+console.log: (new Error("Connection closed, pending request to server0.conn0.child2/thread21, type skipBreakpoints failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nsetSkipPausing/<@resource://devtools/client/debugger/src/client/firefox/commands.js:331:41\nforEachThread/promises<@resource://devtools/client/debugger/src/client/firefox/commands.js:122:16\nforEachThread@resource://devtools/client/debugger/src/client/firefox/commands.js:120:66\nsetSkipPausing@resource://devtools/client/debugger/src/client/firefox/commands.js:331:10\ntoggleSkipPausing/<@resource://devtools/client/debugger/src/actions/pause/skipPausing.js:26:18\nthunk/</</<@resource://devtools/client/debugger/src/actions/utils/middleware/thunk.js:29:45\nbindActionCreator/<@resource://devtools/client/shared/vendor/redux.js:520:12\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.log: (new Error("Connection closed, pending request to server0.conn0.child2/thread21, type skipBreakpoints failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nsetSkipPausing/<@resource://devtools/client/debugger/src/client/firefox/commands.js:331:41\nforEachThread/promises<@resource://devtools/client/debugger/src/client/firefox/commands.js:122:16\nforEachThread@resource://devtools/client/debugger/src/client/firefox/commands.js:120:66\nsetSkipPausing@resource://devtools/client/debugger/src/client/firefox/commands.js:331:10\ntoggleSkipPausing/<@resource://devtools/client/debugger/src/actions/pause/skipPausing.js:26:18\nthunk/</</<@resource://devtools/client/debugger/src/actions/utils/middleware/thunk.js:29:45\nbindActionCreator/<@resource://devtools/client/shared/vendor/redux.js:520:12\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 77))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/frameTarget1, type logInPage failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+logWarningInPage@resource://devtools/client/fronts/targets/target-mixin.js:686:21
+_createSourceMapService/get/</<@resource://devtools/client/framework/toolbox.js:1322:29
+
+1599547066101	geckodriver	INFO	Listening on 127.0.0.1:58489
+1599547069117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile2R5OCK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599547072326	Marionette	INFO	Listening on port 58498
+1599547072729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599547320444	geckodriver	INFO	Listening on 127.0.0.1:58741
+1599547323460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileFYOacG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599547326867	Marionette	INFO	Listening on port 58751
+1599547327072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599547366827	geckodriver	INFO	Listening on 127.0.0.1:58864
+1599547369020	geckodriver	INFO	Listening on 127.0.0.1:58870
+1599547372037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile79RZaz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599547375422	Marionette	INFO	Listening on port 58880
+1599547375650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599547478098	geckodriver	INFO	Listening on 127.0.0.1:59036
+1599547481118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileIOtVPK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599547485101	Marionette	INFO	Listening on port 59045
+1599547485236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1060: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599548016811	geckodriver	INFO	Listening on 127.0.0.1:59693
+1599548019828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileBGeojC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599548022594	Marionette	INFO	Listening on port 59702
+1599548022948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599548051964	geckodriver	INFO	Listening on 127.0.0.1:59784
+1599548054980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileFkI5eT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599548058150	Marionette	INFO	Listening on port 59793
+1599548058594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599548078807	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599548079089	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599548079092	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599548104613	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599548104881	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599548104883	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599548130312	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599548130316	Marionette	INFO	Stopped listening on port 59793
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599548617017	geckodriver	INFO	Listening on 127.0.0.1:60158
+1599548620043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileF48LfT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599548622903	Marionette	INFO	Listening on port 60167
+1599548623157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599548644783	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599548644787	Marionette	INFO	Stopped listening on port 60167
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599548675269	geckodriver	INFO	Listening on 127.0.0.1:60266
+1599548678306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilehGxxbx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599548681112	Marionette	INFO	Listening on port 60275
+1599548681418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599548702837	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599548703116	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599548703118	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599548703169	Marionette	INFO	Stopped listening on port 60275
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599549111379	geckodriver	INFO	Listening on 127.0.0.1:60626
+1599549114397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile1vTQTA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599549116985	Marionette	INFO	Listening on port 60634
+1599549117024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599549128477	Marionette	INFO	Stopped listening on port 60634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599549143658	geckodriver	INFO	Listening on 127.0.0.1:60713
+1599549146685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilerMXBfN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599549149347	Marionette	INFO	Listening on port 60721
+1599549149796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599549171707	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549171985	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549171989	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549175050	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549175051	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549175054	Marionette	INFO	Stopped listening on port 60721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599549209060	geckodriver	INFO	Listening on 127.0.0.1:60808
+1599549212100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilelj2YBh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599549214775	Marionette	INFO	Listening on port 60816
+1599549215214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599549235835	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549236105	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549236108	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549239172	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549239173	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549279902	geckodriver	INFO	Listening on 127.0.0.1:60911
+1599549282927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilea10SkC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599549285504	Marionette	INFO	Listening on port 60919
+1599549285536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599549307416	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549307691	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549307697	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549310756	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549310756	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549472563	geckodriver	INFO	Listening on 127.0.0.1:61076
+1599549475590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile3yDwBK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599549478185	Marionette	INFO	Listening on port 61084
+1599549478202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599549500105	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549500385	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549500389	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549506470	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549506471	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549531919	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549532183	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549532184	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599549538203	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:856:16
+dispatch/</req<@chrome://marionette/content/listener.js:529:14
+dispatch/<@chrome://marionette/content/listener.js:522:15
+1599549538203	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1599617547863	geckodriver	INFO	Listening on 127.0.0.1:56346
+1599617550891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile5NZmUG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599617553906	Marionette	INFO	Listening on port 56354
+1599617554010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599617747805	geckodriver	INFO	Listening on 127.0.0.1:56569
+1599617750821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileIDiqBP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599617753915	Marionette	INFO	Listening on port 56577
+1599617753932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js, line 95: Script terminated by timeout at:
+fix@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:95:247
+dispatch@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:93:52
+add/y.handle@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:89:221
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599617794661	Marionette	INFO	Stopped listening on port 56577
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599617882083	geckodriver	INFO	Listening on 127.0.0.1:56659
+1599617885108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofile0Qv9ls"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599617888201	Marionette	INFO	Listening on port 56667
+1599617888227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599618750931	geckodriver	INFO	Listening on 127.0.0.1:57019
+1599618753946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileO6XpPA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599618757048	Marionette	INFO	Listening on port 57027
+1599618757074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599618967917	geckodriver	INFO	Listening on 127.0.0.1:57242
+1599618970935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofileZhIa25"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599618974085	Marionette	INFO	Listening on port 57252
+1599618974549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599619252982	geckodriver	INFO	Listening on 127.0.0.1:57619
+1599619256007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilevd7DPK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599619259293	Marionette	INFO	Listening on port 57630
+1599619259625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599619435993	Marionette	INFO	Stopped listening on port 57630
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599620184743	geckodriver	INFO	Listening on 127.0.0.1:58808
+1599620187760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Huang\\AppData\\Local\\Temp\\rust_mozprofilee8PJz1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599620190966	Marionette	INFO	Listening on port 58822
+1599620191370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mc.stu.126.net/pub/s/NIMWEB_682c272f0574125b8bc2e143ea6341e1.js, line 36: TypeError: "addEventListener" is read-only
+1599620367655	Marionette	INFO	Stopped listening on port 58822
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
